@@ -1,1 +1,1 @@
-# binance-connector
+# stock portfolio manager
